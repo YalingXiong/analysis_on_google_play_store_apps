@@ -2,6 +2,7 @@
 Analysis on apps from google play store and find the relationship between different features to gain more profit for developer. 
 
 1 Data Source and Data Description
+
 This dataset is from Kaggle datasets, which is public datasets scarped from the Google Play Store. There are two datasets: google play store dataset and google play store user review dataset. The first dataset contains the information of applications on Google Play. The second dataset contains the first “most relevant” 100 reviews for each app. Here is the description of two datasets:
 
 	   Kind of data	                                        Number of records	                   Number of features
@@ -36,6 +37,7 @@ Here are the feature name and their description in google play store user review
 
 
 2 Questions to answer
+
 After observing these datasets, we want to explore the which kinds of apps people wants to download. There are three questions we want to explore:
 
 Q1) Does the free applications will be poplar? What price range of apps will be suitable that people are likely to paid and download? 
